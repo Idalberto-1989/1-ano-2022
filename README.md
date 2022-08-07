@@ -4,4 +4,4 @@ Atividades dos primeiros anos C e D do Colégio Estadual Professor Narciso Mende
 ## Copie para o seu perfil do github esse repositório.
 ## Crie um novo repositório seguindo as instruções do seguinte artigo do alura
 https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github
-!(github-snake-dark.svg#gh-dark-mode-only)
+
